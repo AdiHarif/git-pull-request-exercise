@@ -1,6 +1,6 @@
 # Git Pull Request Exercise
 
-This repo is meant for you to practicing Forking and opening Pull Requests as part of our Git workshop!
+This repo is meant for you to practice Forking and opening Pull Requests as part of our Git workshop!
 
 To participate:
 1. Fork this repo
