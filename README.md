@@ -10,3 +10,5 @@ To participate:
 Your Pull Request will be aproved shortly after submitting.
 
 Have Fun!
+
+![](students-files/mario_with_giant_fork.png)
